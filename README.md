@@ -1,4 +1,4 @@
-# BOOK API VERSION 1
+# LIVRE API VERSION 1
 
 ## Getting Started
 
